@@ -1,0 +1,604 @@
+0,1,2,header,description
+9,9,9,Unnatural Resilience,2% to Maximum Fire Resistance for each 40% Uncapped Fire Resistance
+9,9,8,Prism Guard,+1% to all Maximum Elemental Resistances
+8,9,9,Lightning Rod,Lightning Damage with Non-Critical Hits is Lucky
+9,9,7,Enraged Reaver,+10 to Maximum Rage while wielding an Axe
+9,7,9,Wild Storm,15% more Maximum Lightning Damage
+9,9,6,Vocal Empowerment,Warcries Empower an additional Attack
+6,9,9,Dark Entries,+1 to Level of all Chaos Skills
+9,5,9,Cremation,Damage Penetrates 18% Fire Resistance
+4,9,9,Wide Barrier,30% increased Block chance
+9,9,4,Zone of Control,40% increased Area of Effect of Curses
+9,4,9,Unimpeded,24% reduced Slowing Potency of Debuffs on You
+9,3,9,Enhanced Barrier,25% increased maximum Energy Shield
+9,9,3,Catalysis,20% increased Elemental Damage with Attacks
+2,9,9,Building Toxins,25% reduced Poison Duration
+9,9,2,Spike Pit,Enemies in Jagged Ground you create take 10% increased Damage
+9,1,9,Eldritch Will,"3% increased maximum Life, Mana and Energy Shield"
+0,9,9,Goring,5% reduced maximum Life
+9,9,0,Lord of Horrors,Minions have 12% reduced Reservation
+9,8,8,Feathered Fletching,Increases and Reductions to Projectile Speed also apply to Damage with Bows
+8,9,8,Fast Metabolism,Life Leech effects are not removed when Unreserved Life is Filled
+8,9,7,Patient Barrier,60% increased maximum Energy Shield
+7,8,9,Sudden Infuriation,"3% chance that if you would gain Rage on Hit, you instead gain up to your maximum Rage"
+7,9,8,Urgent Call,Recover 2% of Life and Mana when you use a Warcry
+9,8,7,Endless Blizzard,+1 to Level of all Cold Skills
+9,8,6,Sniper,"Arrows gain Critical Hit Chance as they travel farther, up to 60% increased Critical Hit Chance"
+8,6,9,Repeating Explosives,Grenades have 15% chance to activate a second time
+8,9,6,Calibration,30% increased maximum Energy Shield
+6,9,8,Touch the Arcane,40% increased effect of Arcane Surge on you
+9,8,5,One with the Storm,Quarterstaff Skills that consume Power Charges count as consuming an additional Power Charge
+5,9,8,Coming Calamity,50% increased Cold Damage while affected by Herald of Ice
+8,9,5,Cluster Bombs,50% increased Grenade fuse duration
+8,9,4,Effervescent,4% increased Cast Speed for each different Non-Instant Spell you've Cast Recently
+4,9,8,Right Hand of Darkness,Minions have 20% increased Area of Effect
+9,8,4,Left Hand of Darkness,Minions have 20% additional Physical Damage Reduction
+8,4,9,Stars Aligned,Damage with Hits is Lucky against Enemies that are on Low Life
+9,8,3,Polymathy,10% increased Attributes
+3,9,8,Power Shots,15% reduced Attack Speed with Crossbows
+8,9,3,Volcanic Skin,Gain 8% of Damage as Extra Fire Damage
+2,9,8,Voracious,20% of Leech is Instant
+9,8,2,General Electric,40% increased chance to Shock
+8,2,9,Low Tolerance,60% increased Effect of Poison you inflict on targets that are not Poisoned
+8,9,2,Overexposure,30% increased Cold Exposure Effect
+8,9,1,Trick Shot,Projectiles have 15% chance to Chain an additional time from terrain
+1,9,8,Total Incineration,25% increased Critical Damage Bonus against Burning Enemies
+9,8,1,Marked for Death,Culling Strike against Enemies you Mark
+8,1,9,Woodland Aspect,Charms applied to you have 25% increased Effect
+0,9,8,Ingenuity,+25 to Intelligence
+9,8,0,Drenched,40% increased chance to Shock
+8,0,9,Raw Mana,12% increased maximum Mana
+8,9,0,Forces of Nature,Attack Damage Penetrates 15% of Enemy Elemental Resistances
+9,7,7,Glazed Flesh,"3% of Damage Taken Recouped as Life, Mana and Energy Shield"
+7,7,9,Lightning Quick,14% increased Lightning Damage
+7,6,9,Overzealous,16% increased Cast Speed
+6,7,9,Relentless Fallen,Minions have 20% increased Movement Speed
+9,6,7,Spaghettification,3% increased Movement Speed
+5,7,9,Offensive Stance,1% increased Damage per 1% Chance to Block
+9,5,7,Battle Trance,+8 to Maximum Rage
+7,5,9,Supportive Ancestors,25% increased Damage while you have a Totem
+9,7,5,Electric Amplification,Damage Penetrates 18% Lightning Resistance
+4,7,9,Controlling Magic,25% increased Critical Hit Chance for Spells
+9,4,7,Smoke Inhalation,Damage Penetrates 15% Fire Resistance
+7,4,9,Surging Currents,Damage Penetrates 15% Lightning Resistance
+9,3,7,Heartbreaking,35% increased Critical Damage Bonus
+7,3,9,Perfectly Placed Knife,30% increased Critical Hit Chance against Bleeding Enemies
+9,7,3,Exposed to the Cosmos,Damage Penetrates 15% Cold Resistance
+3,7,9,Grenadier,Grenade Skills have +1 Cooldown Use
+7,2,9,Casting Cascade,15% reduced Spell Damage
+9,2,7,Fleshcrafting,Minions gain 15% of their Maximum Life as Extra Maximum Energy Shield
+2,7,9,Exploit the Elements,24% increased Damage with Hits against Enemies affected by Elemental Ailments
+1,7,9,Dampening Shield,28% increased maximum Energy Shield
+7,1,9,Fervour,+2 to Maximum Frenzy Charges
+9,1,7,Cacophony,40% increased Damage with Warcries
+9,7,1,Death from Afar,Projectiles have 25% increased Critical Hit Chance against Enemies further than 6m
+9,0,7,Martial Artistry,25% increased Accuracy Rating with Quarterstaves
+0,7,9,Presence Present,Allies in your Presence have +100 to Accuracy Rating
+7,0,9,Breath of Fire,Damage Penetrates 15% Fire Resistance
+9,6,6,Endless Circuit,25% chance on Consuming a Shock on an Enemy to reapply it
+6,9,6,Giantslayer,25% increased Damage with Hits against Rare and Unique Enemies
+9,6,5,Final Barrage,20% increased Cast Speed when on Low Life
+6,9,5,Escalating Toxins,"10% increased Poison Duration for each Poison you have inflicted Recently, up to a maximum of 100%"
+5,9,6,Fated End,30% increased Curse Duration
+6,9,4,Lasting Toxins,10% increased Skill Effect Duration
+9,6,4,Lingering Whispers,40% increased Curse Duration
+6,4,9,Cut to the Bone,Break Armour on Critical Hit with Spells equal to 10% of Physical Damage dealt
+4,9,6,Exposed to the Storm,Damage Penetrates 18% Lightning Resistance
+6,9,3,Pierce the Heart,Arrows Pierce an additional Target
+3,9,6,Reusable Ammunition,15% chance for Crossbow Attacks to not consume a bolt
+9,6,3,Tempered Mind,20% increased Critical Damage Bonus
+9,6,2,Struck Through,Attacks have +1% to Critical Hit Chance
+6,2,9,Unexpected Finesse,10% increased Attack Damage
+2,9,6,Climate Change,20% increased Freeze Buildup
+6,9,2,Blood Tearing,15% increased Magnitude of Bleeding you inflict
+6,9,1,Event Horizon,53% increased Chaos Damage
+1,9,6,Staggering Palm,20% increased Critical Damage Bonus
+9,6,1,Stormbreaker,15% increased Damage for each type of Elemental Ailment on Enemy
+9,6,0,Grip of Evil,Minions have 40% increased Critical Damage Bonus
+6,9,0,Maiming Strike,25% increased Attack Damage
+0,9,6,Kite Runner,3% increased Movement Speed
+6,0,9,Soul Bloom,15% increased Energy Shield Recovery rate
+9,5,5,Lingering Horror,23% increased Chaos Damage
+5,5,9,Harness the Elements,15% increased Damage for each type of Elemental Ailment on Enemy
+4,5,9,Burning Strikes,Gain 12% of Physical Damage as Extra Fire Damage
+5,4,9,Exploit,25% increased Damage with Hits against Enemies affected by Elemental Ailments
+9,4,5,Exposed to the Inferno,Damage Penetrates 15% Fire Resistance
+9,3,5,Split the Earth,10% chance to Aftershock for Slam Skills you use with Maces
+9,5,3,Stacking Toxins,Targets can be affected by +1 of your Poisons at the same time
+3,5,9,Psychic Fragmentation,12% chance for Spell Skills to fire 2 additional Projectiles
+5,3,9,Breath of Lightning,Damage Penetrates 15% Lightning Resistance
+2,5,9,Pliable Flesh,6% of Damage taken Recouped as Life
+9,2,5,Lasting Incantations,20% increased Spell Damage
+5,2,9,Stand and Deliver,Projectiles have 40% increased Critical Damage Bonus against Enemies within 2m
+9,5,1,Incendiary,30% increased chance to Ignite
+5,1,9,Battle Fever,5% increased Attack and Cast Speed
+1,5,9,Marked for Sickness,Enemies you Mark take 10% increased Damage
+9,1,5,Snowpiercer,Damage Penetrates 15% Cold Resistance
+5,0,9,Savouring,20% chance for Flasks you use to not consume Charges
+9,0,5,Void,29% increased Chaos Damage
+0,5,9,Revenge,12% increased Attack Speed if you've been Hit Recently
+9,5,0,Lucky Rabbit Foot,30% increased Damage while you have an active Charm
+4,9,4,Crippling Toxins,25% chance for Attacks to Maim on Hit against Poisoned Enemies
+9,4,4,Pinpoint Shot,Attacks gain increased Accuracy Rating equal to their Critical Hit Chance
+9,4,3,Invocated Efficiency,Recover 3% of Mana when you Invoke a Spell
+4,9,3,Hold Focus,15% increased Effect of your Mark Skills
+3,9,4,Overload,Damage Penetrates 10% Lightning Resistance if on Low Mana
+4,2,9,Inner Faith,20% increased Evasion Rating
+2,4,9,Throatseeker,60% increased Critical Damage Bonus
+9,4,2,Overflowing Power,+2 to Maximum Power Charges
+2,9,4,Spiral into Insanity,29% increased Chaos Damage
+4,9,2,Storm Surge,Damage Penetrates 8% Cold Resistance
+1,9,4,Endurance,+2 to Maximum Endurance Charges
+4,9,1,Pure Chaos,Gain 11% of Damage as Extra Chaos Damage
+9,4,1,Sturdy Mind,+30 to maximum Mana
+4,0,9,Backstabbing,25% increased Critical Damage Bonus with Daggers
+0,9,4,Versatile Arms,6% increased Attack Speed with One Handed Melee Weapons
+9,4,0,Adamant Recovery,Increases and Reductions to Armour also apply to Energy ShieldRecharge Rateat40% of their value
+4,9,0,Impending Doom,40% faster Curse Activation
+9,3,3,Falcon Dive,1% increased Attack Speed per 250 Accuracy Rating
+3,9,3,Near at Hand,16% reduced Skill Effect Duration
+3,3,9,Deterioration,Damaging Ailments Cannot Be inflicted on you while you already have one
+2,3,9,Heavy Buffer,40% increased maximum Energy Shield
+9,2,3,Burnout,Ignites you inflict deal Damage 15% faster
+3,2,9,Fast Acting Toxins,Damaging Ailments deal damage 12% faster
+1,3,9,One with the River,30% increased Defences while wielding a Staff
+9,3,1,Reaching Strike,25% increased Melee Damage
+9,1,3,Energise,25% chance for Trigger skills to refund half of Energy Spent
+3,1,9,Glaciation,Damage Penetrates 18% Cold Resistance
+9,0,3,Whirling Onslaught,50% chance to gain Onslaught on Killing Blow with Axes
+0,3,9,Inescapable Cold,40% increased Freeze Buildup
+3,0,9,Flash Storm,30% increased chance to Shock
+9,2,2,Unforgiving,+4 to Maximum Rage
+2,9,2,Burning Nature,25% increased Fire Damage
+2,9,1,Firestarter,40% increased chance to Ignite
+9,2,1,Escalation,25% increased Warcry Speed
+1,9,2,Shredding Force,15% increased Critical Hit Chance for Spells
+0,9,2,Full Salvo,25% increased Damage with Crossbows for each type of Ammunition fired in the past 10 seconds
+2,0,9,Refills,Life Flasks gain 0.15 charges per Second
+9,2,0,Dynamism,40% increased Damage if you've Triggered a Skill Recently
+2,9,0,Crushing Judgement,25% increased Armour Break Duration
+9,1,1,Lust for Power,"5% chance that if you would gain Power Charges, you instead gain up toyour maximum number ofPower Charges"
+1,1,9,Wither Away,Unwithered enemies are Withered for 8 seconds when they enter your Presence
+9,0,1,Asceticism,Stun Threshold is based on 30% of your Energy Shield instead of Life
+0,1,9,Spell Haste,15% increased Evasion Rating
+1,0,9,Perpetual Freeze,15% increased Freeze Buildup
+0,9,0,Skullcrusher,20% more Damage against Heavy Stunned Enemies with Maces
+9,0,0,Pile On,60% increased Damage against Enemies with Fully Broken Armour
+8,8,8,Ancestral Artifice,Attack Skills have +1 to maximum number of Summoned Totems
+8,7,8,Master of Hexes,25% reduced Curse Duration
+8,8,6,Falcon Technique,1% increased Attack Speed per 15 Dexterity
+6,8,8,Ancestral Conduits,12% increased Attack and Cast Speed if you've summoned a Totem Recently
+5,8,8,Watchtowers,Attack Skills have +1 to maximum number of Summoned Totems
+8,5,8,Breath of Ice,Damage Penetrates 15% Cold Resistance
+8,8,4,Entropic Incarnation,Minions have +13% to Chaos Resistance
+4,8,8,Storm Swell,Damage Penetrates 15% Cold Resistance
+8,3,8,Illuminated Crown,20% increased Light Radius
+2,8,8,Leeching Toxins,30% increased Magnitude of Poison you inflict
+8,8,2,Fulmination,40% increased chance to Ignite
+8,1,8,Pure Power,2% increased Lightning Damage per 10 Intelligence
+1,8,8,Power Conduction,25% increased Shock Duration
+0,8,8,Perfect Opportunity,30% increased Stun Buildup
+8,8,0,Carved Earth,20% increased Totem Damage
+7,8,7,Spiked Shield,50% increased Defences from Equipped Shield
+6,7,8,Ignore Pain,Gain 3 Rage when Hit by an Enemy
+6,8,7,Bleeding Out,+250 to Accuracy against Bleeding Enemies
+8,7,6,Swift Claw,25% increased Attack Damage
+7,8,6,Equilibrium,30% increased Attack Damage if you've Cast a Spell Recently
+8,7,5,Greatest Defence,2% increased Attack Damage per 75 Armour or Evasion Rating on Shield
+5,8,7,Dreamcatcher,25% increased Spell Damage while on Full Energy Shield
+7,8,5,Finesse,10% increased Accuracy Rating
+7,8,4,Warding Fetish,30% increased Damage per Curse on you
+4,7,8,Spectral Ward,+1 to Maximum Energy Shield per 12 Evasion Rating on Equipped Body Armour
+4,8,7,Immortal Infamy,10% increased Energy Shield Recharge Rate
+8,7,4,Ancestral Unity,Totems have 4% increased Attack Speed per Summoned Totem
+8,7,3,Savagery,50% increased Evasion Rating if you've consumed a Frenzy Charge Recently
+3,8,7,Tides of Change,25% increased Skill Effect Duration
+7,8,3,Feral Force,25% increased Attack Damage
+2,7,8,Deflection,30% increased Block chance
+8,7,2,Path of Flame,18% increased Fire Damage
+7,8,2,Crystal Elixir,40% increased Elemental Damage with Attack Skills during any Flask Effect
+7,1,8,Instant Reload,40% increased Crossbow Reload Speed
+8,7,1,Made to Last,15% of Physical Damage prevented Recouped as Life
+1,8,7,Intense Flames,35% increased Damage with Hits against Burning Enemies
+7,8,1,Flurry,20% increased Area of Effect while Unarmed
+0,8,7,Warm the Heart,25% reduced Freeze Duration on you
+7,8,0,Bloodletting,10% chance to inflict Bleeding on Hit
+0,7,8,Retaliation,75% increased Thorns damage if you've Blocked Recently
+8,7,0,Shattered Crystal,60% reduced Ice Crystal Life
+8,6,6,Chilled to the Bone,20% increased Chill Duration on Enemies
+6,6,8,Necrotic Touch,Minions have 40% increased Critical Hit Chance
+5,6,8,Holy Protector,Minions have 25% increased maximum Life
+6,5,8,Marked Agility,30% reduced Mana Cost of Mark Skills
+8,5,6,Unsight,Enemies near Enemies you Mark are Blinded
+4,6,8,Spiral into Depression,3% increased Movement Speed
+6,8,4,Aggravation,10% chance to Aggravate Bleeding on targets you Hit with Attacks
+8,4,6,Path of Winter,18% increased Cold Damage
+6,4,8,Bolstering Presence,20% increased Effect of Auras from your Skills
+8,3,6,Fan the Flames,25% reduced Ignite Duration on you
+6,3,8,Crystalline Flesh,Minions have +20% to all Elemental Resistances
+3,6,8,Vile Wounds,33% increased Damage with Hits against Enemies affected by Elemental Ailments
+8,2,6,Silent Shiv,5% increased Attack Speed with Daggers
+6,8,2,Quick Recovery,40% increased Stun Recovery
+6,2,8,Forthcoming,16% reduced Skill Effect Duration
+2,6,8,Ruin,Spell Skills have 10% reduced Area of Effect
+8,1,6,Bravado,Empowered Attacks have 50% increased Stun Buildup
+1,6,8,Prolonged Assault,16% increased Attack Damage
+6,1,8,Cull the Hordes,25% increased Culling Strike Threshold
+0,6,8,Coated Knife,Critical Hits with Daggers have a 25% chance to Poison the Enemy
+8,0,6,Vengeful Fury,Gain 5 Rage when Hit by an Enemy
+6,0,8,Essence of the Mountain,Gain 5% of Damage as Extra Cold Damage
+6,8,0,Echoing Thunder,30% increased Elemental Damage if you've Shocked an Enemy Recently
+5,8,5,Admonisher,25% increased Warcry Speed
+4,8,5,Impair,25% increased Damage with One Handed Weapons
+5,8,4,Deadly Force,30% increased Damage if you've dealt a Critical Hit in the past 8 seconds
+8,5,4,Grit,"5% chance that if you would gain Endurance Charges, you instead gain up to maximum Endurance Charges"
+4,5,8,Lucidity,8% of Damage is taken from Mana before Life
+3,8,5,Feel the Earth,25% reduced Shock duration on you
+8,5,3,Bolstering Yell,Empowered Attacks deal 30% increased Damage
+5,8,3,Lust for Sacrifice,40% increased Minion Damage while you have at least two different active Offerings
+2,5,8,Escape Velocity,3% increased Movement Speed
+5,8,2,Convalescence,15% reduced Energy Shield Recharge Rate
+2,8,5,Living Death,Minions have +22% to all Elemental Resistances
+8,5,2,Emboldened Avatar,25% increased chance to Ignite
+1,8,5,Echoing Flames,Mastery: Bestiary
+8,5,1,Sigil of Ice,30% increased Damage with Hits against Chilled Enemies
+5,8,1,Overheating Blow,Hits that Heavy Stun inflict Fire Exposure
+0,5,8,Hefty Unit,+3 to Stun Threshold per Strength
+0,8,5,Moment of Truth,25% increased Critical Damage Bonus if you've dealt a Non-Critical Hit Recently
+8,5,0,Branching Bolts,60% chance for Lightning Skills to Chain an additional time
+5,8,0,Preservation,25% increased Skill Effect Duration
+4,4,8,Shimmering,20% increased Energy Shield Recovery Rate if you haven't been Hit Recently
+3,4,8,Mindful Awareness,24% increased Evasion Rating
+4,3,8,The Power Within,20% increased Critical Damage Bonus if you've gained a Power Charge Recently
+8,3,4,Lasting Trauma,5% reduced Attack Speed
+8,4,3,Cruel Methods,Break 40% increased Armour
+4,2,8,Morning Star,30% increased Critical Hit Chance with Flails
+4,8,2,Desensitisation,25% increased Critical Damage Bonus
+8,4,2,Careful Assassin,20% reduced Critical Damage Bonus
+8,2,4,Hindered Capabilities,30% increased Damage with Hits against Hindered Enemies
+2,4,8,Authority,20% increased Area of Effect for Attacks
+1,4,8,Melding,40% increased maximum Energy Shield
+8,1,4,Short Shot,15% reduced Projectile Speed
+4,1,8,Distracting Presence,10% increased Cooldown Recovery Rate
+8,0,4,Cooked,50% increased Critical Damage Bonus during any Flask Effect
+0,4,8,Spiral into Mania,10% increased Cast Speed
+4,8,0,Crushing Verdict,5% reduced Attack Speed
+3,8,3,Sigil of Lightning,30% increased Damage with Hits against Shocked Enemies
+2,8,3,Natural Immunity,+4 to Ailment Threshold per Dexterity
+3,8,2,Electrocution,Enemies you Electrocute have 20% increased Damage taken
+2,3,8,Stylebender,Break 30% increased Armour on enemies affected by Ailments
+8,3,2,Apocalypse,40% reduced Damage
+3,8,1,For the Jugular,30% increased Critical Damage Bonus
+1,8,3,Slow Burn,20% increased Ignite Duration on Enemies
+8,3,1,Ancestral Alacrity,30% increased Totem Placement speed
+0,8,3,Subterfuge Mask,+2 to Evasion Rating per 1 Maximum Energy Shield on Equipped Helmet
+3,8,0,Refocus,30% increased Energy Shield Recharge Rate
+8,3,0,Ancestral Reach,25% increased Totem Placement speed
+0,3,8,Madness in the Bones,Gain 6% of Physical Damage as extra Chaos Damage
+8,2,2,Aspiring Genius,20% increased Mana Regeneration Rate
+2,2,8,Perforation,20% chance for Bleeding to be Aggravated when Inflicted against Enemies on Jagged Ground
+1,2,8,Heavy Blade,25% increased Damage with Swords
+2,1,8,Ball and Chain,15% increased Damage with Flails
+8,1,2,Echoing Frost,30% increased Elemental Damage if you've Chilled an Enemy Recently
+2,8,0,Leather Bound Gauntlets,+1 to Evasion Rating per 1 Armour on Equipped Gloves
+8,0,2,Thin Ice,20% increased Freeze Buildup
+2,0,8,Spirit Bonds,Link Skills can target Damageable Minions
+0,2,8,Resourceful Ally,Minions deal 25% increased Damage
+1,8,1,Immortal Thirst,15% increased maximum Energy Shield
+0,8,1,Frenetic,"5% chance that if you would gain Frenzy Charges, you instead gain up to your maximum number of Frenzy Charges"
+8,1,0,Sigil of Fire,30% increased Damage with Hits against Ignited Enemies
+1,8,0,Thrill of Battle,20% increased Attack Speed while Surrounded
+8,0,1,Electrotherapy,5% increased Skill Speed
+8,0,0,Guts,Recover 3% of Life for each Endurance Charge consumed
+0,0,8,Alternating Current,25% increased Mana Regeneration Rate if you have Shocked an Enemy Recently
+6,7,7,Spellblade,32% increased Spell Damage while wielding a Melee Weapon
+7,7,6,Turn the Clock Back,20% reduced Projectile Speed for Spell Skills
+7,5,7,Beef,+25 to Strength
+7,4,7,Lay Siege,1% increased Damage per 1% Chance to Block
+7,7,4,Stormcharged,40% increased Elemental Damage if you've dealt a Critical Hit Recently
+4,7,7,Primal Growth,20% increased Area of Effect if you've Killed Recently
+7,3,7,Breaking Point,10% increased Duration of Elemental Ailments on Enemies
+2,7,7,Vile Mending,Minions have 20% increased maximum Life
+7,7,2,All Natural,+5% to all Elemental Resistances
+7,1,7,Necrotised Flesh,Minions have 40% increased maximum Life
+0,7,7,Rapid Strike,+30 to Accuracy Rating
+7,7,0,Path of Storms,18% increased Lightning Damage
+7,0,7,Impact Force,20% increased Stun Buildup
+6,7,6,Chronomancy,20% increased Skill Effect Duration
+6,7,5,Restless Dead,Minions Revive 25% faster
+5,7,6,Arcane Intensity,3% increased Spell Damage per 100 maximum Mana
+7,6,5,Master Fletching,30% increased bonuses gained from Equipped Quiver
+6,7,4,Overwhelm,5% reduced Attack Speed
+7,4,6,Anticipation,Skills Supported by Unleash have 25% increased Seal gain frequency
+7,6,4,Time Manipulation,Debuffs you inflict have 10% increased Slow Magnitude
+7,6,3,Unbending,3% increased maximum Life
+3,7,6,Harmonic Generator,25% increased Critical Hit Chance against Shocked Enemies
+6,7,3,Heavy Frost,20% increased Freeze Buildup
+6,7,2,Heavy Armour,"100% of Strength Requirements from Boots, Gloves and Helmets also added to Armour"
+2,7,6,Shattering,25% increased Freeze Buildup
+7,6,2,Fate Finding,15% reduced Reservation of Herald Skills
+7,2,6,Sturdy Ally,Minions have 25% increased maximum Life
+7,6,1,Suffusion,30% increased amount of Mana Leeched
+6,7,1,Turn the Clock Forward,20% increased Projectile Speed for Spell Skills
+1,7,6,Wasting,15% increased Duration of Damaging Ailments on Enemies
+0,7,6,Projectile Bulwark,30% increased Armour
+7,0,6,Deep Trance,8% increased Attack Speed
+6,7,0,Dead can Dance,Minions have 25% increased Evasion Rating
+7,6,0,Harsh Winter,8% increased Cast Speed with Cold Skills
+5,5,7,Bloodthirsty,20% increased amount of Life Leeched
+7,5,5,Burn Away,15% increased Fire Damage
+5,4,7,Singular Purpose,5% reduced Attack Speed
+4,5,7,Quick Response,20% faster start of Energy Shield Recharge
+7,4,5,Acceleration,3% increased Movement Speed
+4,7,5,Bringer of Order,Minions deal 25% increased Damage
+5,3,7,Sudden Escalation,16% increased Critical Hit Chance for Spells
+7,3,5,Ice Walls,200% increased Ice Crystal Life
+3,5,7,Multitasking,15% increased Skill Effect Duration
+5,2,7,Shield Expertise,12% increased Block chance
+2,5,7,Explosive Impact,15% increased Area of Effect
+2,7,5,Waters of Life,Recover 2% of Life when you use a Mana Flask
+7,2,5,Silent Guardian,Minions have +20% to all Elemental Resistances
+1,5,7,Insightfulness,18% increased maximum Energy Shield
+1,7,5,Blood Rush,6% increased Skill Speed
+5,1,7,Stigmata,Offerings have 30% increased Maximum Life
+7,1,5,Pure Energy,30% increased maximum Energy Shield
+7,0,5,Push the Advantage,40% increased Critical Damage Bonus with One Handed Melee Weapons
+0,7,5,Gravedigger,Minions Revive 15% faster
+0,5,7,Bestial Rage,25% increased Attack Damage
+5,0,7,Adrenaline Rush,4% increased Movement Speed if you've Killed Recently
+4,7,4,Blinding Strike,24% increased Attack Damage
+3,7,4,General's Bindings,Gain 8% of Evasion Rating as extra Armour
+7,4,3,Mental Alacrity,5% increased Cast Speed
+4,7,3,Ancestral Mending,Regenerate 1% of Life per second while you have a Totem
+2,7,4,Jack of all Trades,2% increased Damage per 5 of your lowest Attribute
+7,2,4,In Your Face,40% increased Melee Damage with Hits at Close Range
+4,7,2,Mental Toughness,18% increased Mana Regeneration Rate
+7,4,2,Breakage,Break 60% increased Armour
+7,4,1,Blade Catcher,Defend with 200% of Armour against Critical Hits
+4,7,1,Cold Nature,25% increased Cold Damage
+1,7,4,Vengeance,40% increased Thorns damage
+7,0,4,Enhanced Reflexes,30% increased Evasion Rating
+0,7,4,Dependable Ward,25% increased Energy Shield Recharge Rate
+4,7,0,Price of Freedom,10% reduced Mana Cost of Attacks
+7,4,0,Echoing Pulse,Final Repeat of Spells has 40% increased Area of Effect
+7,3,3,Fireproof,+15% to Fire Resistance
+3,3,7,Manifold Method,50% increased amount of Mana Leeched
+3,7,3,Thicket Warding,20% chance for Charms you use to not consume Charges
+3,2,7,Core of the Guardian,100% increased Defences from Equipped Shield
+7,2,3,Coated Arms,25% increased Damage with One Handed Weapons
+2,3,7,Fortifying Blood,20% increased amount of Life Leeched
+2,7,3,Essence of the Storm,Gain 5% of Damage as Extra Lightning Damage
+7,1,3,Proficiency,+25 to Dexterity
+1,3,7,Growing Swarm,Minions have 20% increased Area of Effect
+3,1,7,Reverberation,Spell Skills have 20% increased Area of Effect
+7,3,0,Unstoppable Barrier,10% increased Block chance
+0,3,7,Icebreaker,Gain 100% of Maximum Energy Shield as additional Freeze Threshold
+0,7,3,Split Shot,Projectiles have 75% chance for an additional Projectile when Forking
+7,0,3,Mind Eraser,10% increased Mana Regeneration Rate
+3,0,7,First Approach,50% increased Critical Hit Chance against Enemies on Full Life
+2,7,2,Curved Weapon,15% increased Accuracy Rating
+7,2,1,Mystic Stance,30% faster start of Energy Shield Recharge
+2,7,1,Tenfold Attacks,4% increased Attack Speed
+1,7,2,Advanced Munitions,25% increased chance to inflict Ailments with Projectiles
+7,0,2,Swift Skewering,8% increased Attack Speed with Spears
+7,2,0,Colossal Weapon,15% increased Area of Effect for Attacks
+0,7,2,Loose Flesh,15% of Elemental Damage taken Recouped as Life
+2,7,0,Rattled,+20 to maximum Mana
+2,0,7,Spirit Bond,30% increased Totem Life
+0,2,7,Thornhide,+5% to Thorns Critical Hit Chance
+7,1,1,Shattering Blow,Break 50% of Armour on Heavy Stunning an Enemy
+7,0,1,Efficient Alchemy,20% increased Flask and Charm Charges gained
+0,1,7,Honourless,25% increased Armour if you've Hit an Enemy with a Melee Attack Recently
+1,0,7,Far Sighted,30% reduced penalty to Accuracy Rating at range
+0,7,1,Two-Pronged Attack,Minions deal 25% increased Damage
+0,7,0,Parrying Motion,12% increased Block chance
+6,6,6,Sand in the Eyes,10% increased Attack Speed
+6,5,6,Lasting Concoctions,25% increased Flask Effect Duration
+4,6,6,Arcane Blossom,15% increased Mana Recovery rate
+6,6,4,Brutal,10% increased Stun Buildup
+6,3,6,Escape Strategy,100% increased Evasion Rating if you have been Hit Recently
+6,6,3,Hunker Down,Recover 20 Life when you Block
+2,6,6,Rattling Ball,25% increased Damage with Flails
+6,2,6,Hardened Wood,Totems gain +20% to all Elemental Resistances
+6,6,2,Relentless,15% increased Armour
+6,1,6,Shadow Dancing,30% increased Evasion Rating if you have been Hit Recently
+0,6,6,Reprisal,Attack Skills deal 25% increased Damage while holding a Shield
+6,6,0,Step Like Mist,4% increased Movement Speed
+6,5,5,Hallowed,20% increased Stun Recovery
+5,6,5,Pin and Run,30% increased Pin Buildup
+4,6,5,Staunching,Life Flasks gain 0.1 charges per Second
+6,4,5,Overwhelming Strike,20% increased Critical Hit Chance for Attacks
+6,5,4,Locked On,15% increased Critical Hit Chance for Attacks
+5,6,4,Pinned Down,Enemies are Maimed for 4 seconds after becoming Unpinned
+5,6,3,Deep Wounds,Attack Hits Aggravate any Bleeding on targets which is older than 4 seconds
+6,5,3,Frazzled,15% increased Mana Regeneration Rate
+3,6,5,Deadly Swarm,Minions deal 15% increased Damage
+5,3,6,Repulsion,Area Skills have 20% chance to Knock Enemies Back on Hit
+2,6,5,Javelin,25% increased Damage with Spears
+6,5,2,Slippery Ice,25% reduced Effect of Chill on you
+5,6,2,In the Thick of It,Regenerate 2.5% of Life per second while Surrounded
+2,5,6,Vale Shelter,Charms gain 0.15 charges per Second
+5,1,6,Clever Construction,25% increased Critical Hit Chance with Traps
+5,6,1,Succour,30% increased Life Regeneration rate during Effect of any Life Flask
+6,5,1,Protraction,20% increased Skill Effect Duration
+6,1,5,Spiked Armour,Gain Physical Thorns damage equal to 2% of Armour from equipped Body Armour
+1,6,5,Irreparable,100% increased Armour Break Duration
+6,5,0,Desperate Times,Regenerate 1.5% of Life per second while on Low Life
+0,6,5,Immolation,25% increased Magnitude of Ignite you inflict
+5,6,0,Personal Touch,20% increased Melee Damage
+4,4,6,Blade Flurry,6% increased Attack Speed while Dual Wielding
+6,4,4,Devoted Protector,10% increased Mana Regeneration Rate
+6,3,4,Ancient Aegis,60% increased Armour from Equipped Body Armour
+3,4,6,Austerity Measures,+5 to all Attributes
+4,3,6,Reverberating Impact,Break 25% increased Armour
+6,4,3,Honed Instincts,8% increased Projectile Speed
+6,2,4,Reinforced Barrier,20% increased maximum Energy Shield
+4,2,6,Cruel Fate,20% increased Critical Damage Bonus
+2,4,6,Raw Power,20% increased Spell Damage
+1,4,6,Precise Point,25% increased Damage with Spears
+4,1,6,Crashing Wave,36% increased Damage if you've dealt a Critical Hit in the past 8 seconds
+1,6,4,Barbaric Strength,45% increased Critical Damage Bonus
+6,1,4,Flow State,5% increased Skill Speed
+6,4,1,Full Recovery,15% increased Life Regeneration rate
+4,0,6,Destructive Apparatus,25% increased Trap Damage
+0,4,6,Heavy Contact,Hits that Heavy Stun Enemies have Culling Strike
+6,0,4,Reaving,8% increased Attack Speed with One Handed Weapons
+6,3,3,Thunderstruck,50% increased Electrocute Buildup against Shocked Enemies
+3,6,3,Stupefy,25% increased Critical Hit Chance against Dazed Enemies
+3,6,2,Covering Ward,25% increased Energy Shield Recharge Rate
+6,3,2,Hale Heart,15% increased Life Recovery rate
+2,6,3,Shatter Palm,30% increased Stun Buildup
+3,1,6,Polished Iron,25% increased Armour
+6,3,1,Titanic,30% increased Stun Buildup
+1,6,3,Internal Bleeding,20% chance to Aggravate Bleeding on targets you Hit with Empowered Attacks
+3,6,1,Meat Recycling,15% chance to not destroy Corpses when Consuming Corpses
+3,6,0,Heart Tissue,6% of Damage taken Recouped as Life
+0,6,3,Heartstopping,+10 to Intelligence
+6,3,0,Blurred Motion,5% increased Attack Speed
+3,0,6,Volatile Grenades,25% reduced Grenade fuse duration
+6,2,2,Stimulants,12% increased Attack Speed during any Flask Effect
+6,2,1,Erraticism,16% increased Cast Speed if you've dealt a Critical Hit Recently
+6,1,2,Aftershocks,40% increased Aftershock Area of Effect
+2,1,6,Flow Like Water,8% increased Attack and Cast Speed
+1,2,6,Way of the Wind,25% increased Evasion if you have Hit an Enemy Recently
+0,6,2,Tainted Strike,25% increased Critical Hit Chance for Attacks
+0,2,6,Prolonged Fury,Inherent loss of Rage is 25% slower
+2,0,6,Tough Claw,25% increased Attack Damage
+6,0,2,Clean Shot,15% chance to Pierce an Enemy
+6,1,1,Leaping Ambush,100% increased Critical Hit Chance against Enemies on Full Life
+1,6,1,Mana Blessing,+20 to maximum Mana
+0,6,1,Towering Shield,50% increased Defences from Equipped Shield
+0,1,6,Vulgar Methods,10% reduced maximum Mana
+6,1,0,Finishing Blows,60% increased Damage with Hits against Enemies that are on Low Life
+1,6,0,Pressure Points,35% increased Stun Buildup
+6,0,0,Savoured Blood,35% increased amount of Life Leeched
+0,0,6,Devastation,15% increased Area of Effect for Attacks
+5,5,5,Breaking Blows,30% increased Stun Buildup
+4,5,5,Hale Traveller,20% increased Life Recovery from Flasks
+5,5,4,Mass Hysteria,Allies in your Presence have 6% increased Attack Speed
+5,3,5,Cautious Concoctions,15% increased Flask Effect Duration
+5,5,2,Heatproofing,25% of Armour also applies to Fire Damage taken from Hits
+2,5,5,No Escape,Mark Skills have 60% increased Skill Effect Duration
+5,1,5,Piercing Shot,50% chance to Pierce an Enemy
+1,5,5,Spreading Shocks,Shocking Hits have a 50% chance to also Shock enemies in a 1.5 metre radius
+5,5,0,Conservative Casting,20% increased Mana Regeneration Rate
+0,5,5,Ricochet,15% increased Projectile Damage
+4,5,4,Resolution,10% increased Global Defences
+5,4,3,Spiked Whip,25% increased Damage with Flails
+4,5,3,Coursing Energy,40% increased Electrocute Buildup
+3,5,4,Heavy Weaponry,15% increased Melee Damage
+3,4,5,Impact Area,15% increased Area of Effect if you have Stunned an Enemy Recently
+4,5,2,Whirling Assault,8% increased Attack Speed with Quarterstaves
+5,4,2,Devestating Devices,25% increased Trap Damage
+2,5,4,Beastial Skin,100% increased Evasion Rating from Equipped Body Armour
+4,5,1,Catapult,15% increased Projectile Speed
+5,4,1,Unbound Forces,40% increased Chill Duration on Enemies
+1,4,5,Twinned Tethers,Link Skills Link to 1 additional random target
+1,5,4,Strong Links,Link Skills have 20% increased Buff Effect
+0,5,4,Immaterial,50% increased Evasion Rating if Energy Shield Recharge has started in the past 2 seconds
+5,4,0,Reinvigoration,Regenerate 1% of Life per Second if you've used a Life Flask in the past 10 seconds
+4,5,0,Quick-change Act,50% increased Weapon Swap Speed
+5,3,3,Direct Approach,40% increased Critical Hit Chance against Enemies that are affectedby no ElementalAilments
+3,3,5,Potent Incantation,30% increased Spell Damage
+3,2,5,Sturdy Metal,80% increased Armour from Equipped Body Armour
+2,3,5,Cranial Impact,30% increased Stun Buildup
+3,5,2,Serrated Edges,10% increased Critical Hit Chance for Attacks
+5,2,3,Viciousness,8% increased Melee Attack Speed
+1,3,5,Roll and Strike,25% increased Damage with Spears
+5,1,3,Deafening Cries,25% increased Warcry Cooldown Recovery Rate
+3,1,5,Doomsayer,Herald Skills have 30% increased Area of Effect
+5,0,3,Taut Flesh,15% of Physical Damage taken Recouped as Life
+5,3,0,Sundering,25% increased Critical Damage Bonus for Attack Damage
+3,0,5,Guttural Roar,30% increased Warcry Speed
+0,3,5,Adverse Growth,20% reduced Life Regeneration rate
+3,5,0,Blur,4% increased Movement Speed
+2,5,2,Regenerative Flesh,Minions Recoup 10% of Damage taken as Life
+1,2,5,Afterimage,8% more chance to Evade Melee Attacks
+1,5,2,Preemptive Strike,100% increased Critical Damage Bonus against Enemies that are on Full Life
+5,2,1,Wellspring,30% increased Mana Recovery from Flasks
+2,5,1,Remorseless,15% increased Projectile Damage
+2,5,0,Unerring Impact,10% increased Accuracy Rating with One Handed Melee Weapons
+0,5,2,Mental Perseverance,10% of Damage is taken from Mana before Life
+5,2,0,Roil,Spell Skills have 30% increased Area of Effect
+5,1,1,Hulking Smash,30% increased Stun Buildup
+1,1,5,Shrapnel,30% chance to Pierce an Enemy
+1,0,5,Rapid Recharge,25% increased Energy Shield Recharge Rate
+5,0,1,Potent Concoctions,Flasks applied to you have 25% increased Effect
+0,1,5,True Strike,+10 to Dexterity
+1,5,0,Sharp Sight,5% increased Attack Speed
+0,5,0,Flip the Script,Recover 20% of Life when you Heavy Stun a Rare or Unique Enemy
+4,4,4,Heavy Drinker,30% increased Flask Effect Duration
+4,4,3,Dispatch Foes,80% increased Critical Hit Chance if you haven't dealt a Critical Hit Recently
+4,3,4,Relentless Vindicator,10% increased Damage
+4,4,2,Essence Infusion,40% increased Energy Shield Recharge Rate
+2,4,4,Infused Flesh,+20 to maximum Life
+4,2,4,Ether Flow,25% reduced Mana Regeneration Rate while stationary
+4,1,4,Resilient Soul,20% increased Life Regeneration rate
+0,4,4,Self Mortification,Gain 20% of maximum Energy Shield as additional Stun Threshold
+4,4,0,Smash,20% increased Melee Damage
+3,4,3,Unbreaking,30% increased Stun Threshold
+3,4,2,Ripping Blade,25% increased Damage with Swords
+4,2,3,Electrifying Nature,25% increased Lightning Damage
+2,4,3,Warding Potions,10% reduced Flask Charges used from Mana Flasks
+4,3,2,Exposed Wounds,15% increased chance to inflict Ailments
+4,3,1,Fear of Death,Minions have +150 to Accuracy Rating
+3,4,1,Siphon,Recover 2% of Mana on Kill
+4,0,3,Shedding Skin,40% increased Elemental Ailment Threshold
+4,3,0,Critical Exploit,25% increased Critical Hit Chance
+0,4,3,Near Sighted,60% increased Accuracy Rating at Close Range
+3,4,0,Break Focus,Enemies you Mark have 15% reduced Accuracy Rating
+2,2,4,Freedom of Movement,30% increased Evasion Rating
+4,2,2,Arcane Alchemy,Mana Flasks gain 0.1 charges per Second
+1,2,4,Cross Strike,20% increased Accuracy Rating while Dual Wielding
+1,4,2,Smooth Buckler,12% increased Block chance
+4,1,2,Thickened Arteries,5% reduced Movement Speed
+2,1,4,Practiced Signs,6% increased Cast Speed
+4,0,2,Taste for Blood,Gain 20 Life per Enemy Killed
+2,0,4,Initiative,30% increased Melee Damage when on Full Life
+0,2,4,Determined Precision,30% increased Accuracy Rating at Close Range
+1,4,1,Vigilance,12% increased Block chance
+4,1,0,Defiance,80% increased Armour and Evasion Rating when on Low Life
+4,0,1,Deadly Flourish,20% increased Melee Critical Hit Chance
+0,4,1,Altered Brain Chemistry,25% increased Mana Recovery from Flasks
+1,4,0,Critical Overload,15% increased Critical Hit Chance for Spells
+4,0,0,Deft Recovery,30% increased Stun Recovery
+0,0,4,Investing Energies,40% increased Mana Regeneration Rate while stationary
+3,3,3,Hunter's Talisman,+1 Charm Slot
+3,3,2,Careful Consideration,30% reduced Evasion Rating if you have been Hit Recently
+2,3,3,Forcewave,20% increased Stun Buildup
+3,3,1,Arcane Mixtures,25% increased Energy Shield Recharge Rate
+3,1,3,Pocket Sand,50% increased Blind Effect
+3,3,0,Impenetrable Shell,Defend with 150% of Armour against Attacks from further than 6m
+0,3,3,Titan's Determination,25% increased Stun Threshold
+2,3,2,Killer Instinct,30% increased Attack Damage when on Full Life
+3,2,1,Feel no Pain,20% increased Armour and Evasion Rating
+1,3,2,Defender's Resolve,12% increased Block chance
+2,3,1,Stand Ground,Regenerate 1% of Life per second while affected by any Damaging Ailment
+2,1,3,Battle-hardened,Hits against you have 20% reduced Critical Damage Bonus
+1,2,3,Primal Protection,25% increased Charm Effect Duration
+2,3,0,Shockwaves,30% increased Area of Effect if you've Stunned an Enemy with a Two Handed Melee Weapon Recently
+0,3,2,Mass Rejuvenation,Regenerate 0.5% of Life per second
+3,2,0,Radial Force,10% increased Area of Effect
+1,1,3,Careful Aim,16% increased Projectile Damage
+3,1,1,Clear Space,20% increased Knockback Distance
+3,1,0,Catlike Agility,25% increased Evasion Rating
+3,0,1,Strong Chin,Gain Stun Threshold equal to the lowest of Evasion and Armour on your Helmet
+1,0,3,Briny Carapace,60% increased Stun Threshold for each time you've been Stunned Recently
+0,1,3,Seeing Stars,25% increased Daze Buildup
+0,3,0,Close Confines,25% chance for Projectiles to Pierce Enemies within 3m distance of you
+2,2,2,Life from Death,Recover 3% of Life on Kill
+2,1,2,Flashy Deflection,12% increased Block chance
+1,2,2,Heavy Ammunition,8% reduced Attack Speed
+2,2,0,Backup Plan,40% increased Evasion Rating if you have been Hit Recently
+0,2,2,Sharpened Claw,25% increased Attack Damage
+1,2,1,Hard to Kill,40% increased Flask Life Recovery rate
+0,1,2,Back in Action,80% increased Stun Recovery
+1,2,0,Combat Alchemy,10% chance for Flasks you use to not consume Charges
+0,2,1,Eagle Eye,+30 to Accuracy Rating
+2,1,0,Volatile Catalyst,10% increased Area of Effect
+2,0,0,Defensive Reflexes,12% increased Block chance
+0,0,2,High Alert,50% increased Evasion Rating when on Full Life
+0,1,1,Stance Breaker,50% reduced Enemy Chance to Block Sword Attacks
+1,1,0,Open Mind,25% increased Mana Regeneration Rate
+0,1,0,Blinding Flash,20% increased Blind Effect
+0,0,0,Insulated Treads,Gain Ailment Threshold equal to the lowest of Evasion and Armour on your Boots

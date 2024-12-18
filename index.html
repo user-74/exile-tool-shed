@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Exile Tool Shed</title>
+    <!-- Papa Parse from jsDelivr -->
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+
+    <!-- Alpine.js from jsDelivr -->
+    <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+
+    <script src="./src/js/data-loader.js"></script>
+    <link rel="stylesheet" href="./src/styles/main.css">
+</head>
+
+<body x-data>
+    <div class="container">
+        <div class="inventory" x-data="$store.appData">
+            <template x-for="(item, index) in fileNames" :key="index">
+                <div">
+                    <img :src="item" />
+                    <div x-text="distilled[index]"></div>
+                    <input type="number" x-model="$store.appData.values[index]"
+                        @input="$store.appData.values[index] = parseFloat($store.appData.values[index]); $store.appData.calculate()" />
+        </div>
+        </template>
+    </div>
+    <ul>
+        <template x-for="(row, index) in $store.appData.csv">
+            <li x-show="$store.appData.show[index]">
+                <div style="display: flex; flex-wrap: nowrap;">
+                    <img :src="fileNames[row[0]]">
+                    <img :src="fileNames[row[1]]">
+                    <img :src="fileNames[row[2]]">
+                </div>
+                <div>
+                    <div class="header" x-text="row.header"></div>
+                    <div x-text="row.description"></div>
+                </div>
+
+            </li>
+        </template>
+    </ul>
+    </div>
+</body>
+
+</html>

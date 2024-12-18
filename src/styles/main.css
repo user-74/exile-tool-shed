@@ -1,0 +1,33 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: flex;
+    flex-direction: row;
+    outline: solid 1px rgba(0, 0, 0, 0.4);
+}
+
+img {
+    aspect-ratio: keep;
+    max-width: 64px;
+}
+
+.container {
+    display: flex;
+}
+
+.header {
+    font-weight: bolder;
+}
+
+.inventory {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    gap: 15px;
+}
