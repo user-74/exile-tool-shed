@@ -19,6 +19,11 @@ img {
     max-width: 64px;
 }
 
+img {
+    align-self: center;
+    flex: 0 0 auto;
+  }
+
 .container {
     display: flex;
 }

@@ -32,7 +32,10 @@ document.addEventListener('alpine:init', () => {
           header: true,
           skipEmptyLines: true,
           complete: (results) => {
-            this.csv = results.data;
+            results.data.forEach(element => {
+              element.description = element.description.replaceAll('\\n', '<br>')
+            });
+            this.csv = results.data
             this.resetShow();
             resolve(results.data);
           },
@@ -42,15 +45,6 @@ document.addEventListener('alpine:init', () => {
           },
         });
       });
-    },
-
-    async loadJSON(path) {
-      try {
-        const response = await fetch(path);
-        this.json = await response.json();
-      } catch (error) {
-        console.error('JSON loading error:', error);
-      }
     },
 
     resetShow() {
