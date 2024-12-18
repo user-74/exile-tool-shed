@@ -4,12 +4,14 @@ body {
 
 ul {
     list-style: none;
+    margin: 0;
+    padding: 0;
 }
 
 li {
     display: flex;
     flex-direction: row;
-    outline: solid 1px rgba(0, 0, 0, 0.4);
+    border: solid 1px rgba(0, 0, 0, 0.4);
 }
 
 img {
@@ -30,4 +32,12 @@ img {
     flex-direction: column;
     padding: 20px;
     gap: 15px;
+}
+
+.output {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
 }

@@ -4,12 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Exile Tool Shed</title>
-    <!-- Papa Parse from jsDelivr -->
     <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
-
-    <!-- Alpine.js from jsDelivr -->
     <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
-
     <script src="./src/js/data-loader.js"></script>
     <link rel="stylesheet" href="./src/styles/main.css">
 </head>
@@ -26,22 +22,25 @@
         </div>
         </template>
     </div>
-    <ul>
-        <template x-for="(row, index) in $store.appData.csv">
-            <li x-show="$store.appData.show[index]">
-                <div style="display: flex; flex-wrap: nowrap;">
-                    <img :src="fileNames[row[0]]">
-                    <img :src="fileNames[row[1]]">
-                    <img :src="fileNames[row[2]]">
-                </div>
-                <div>
-                    <div class="header" x-text="row.header"></div>
-                    <div x-text="row.description"></div>
-                </div>
+    <div class="output">
+        <input type="string" placeholder="Search name or description" x-model="$store.appData.search"
+            @input="$store.appData.calculate()" />
+        <ul>
+            <template x-for="(row, index) in $store.appData.csv">
+                <li x-show="$store.appData.show[index]">
+                    <div style="display: flex; flex-wrap: nowrap;">
+                        <img :src="fileNames[row[0]]">
+                        <img :src="fileNames[row[1]]">
+                        <img :src="fileNames[row[2]]">
+                    </div>
+                    <div>
+                        <div class="header" x-text="row.header"></div>
+                        <div x-text="row.description"></div>
+                    </div>
 
-            </li>
-        </template>
-    </ul>
+                </li>
+            </template>
+        </ul>
     </div>
 </body>
 

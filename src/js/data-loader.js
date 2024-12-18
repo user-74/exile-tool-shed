@@ -19,6 +19,7 @@ document.addEventListener('alpine:init', () => {
     csv: [],
     values: new Array(distilled.length).fill(0),
     show: [],
+    search: "",
 
     async init() {
       await this.loadCSV('./src/data/results.csv');
@@ -57,11 +58,19 @@ document.addEventListener('alpine:init', () => {
     },
 
     calculate() {
-      if (!this.values.some(x => x > 0)) {
+      if (!this.values.some(x => x > 0) && !this.search) {
         this.resetShow();
         return;
       }
-      this.show = this.csv.map(x => checkAvailability(this.values, x))
+      this.show = this.csv.map(x => (!this.values.some(x => x > 0) || checkAvailability(this.values, x)) && (!this.search.trim().toLocaleLowerCase() || searchResult(this.search, x)))
+    }
+  });
+
+  // Listen for the keydown event
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape') {
+      Alpine.store('appData').search = '';  // Clear the search input in the store
+      Alpine.store('appData').calculate();
     }
   });
 });
@@ -69,7 +78,6 @@ document.addEventListener('alpine:init', () => {
 function checkAvailability(values, x) {
   // Create a copy of the values array to track availability
   const available = [...values];
-  console.log(available)
 
   // Check if there are enough available values for each requested index
   for (let i = 0; i < 3; i++) {
@@ -81,4 +89,8 @@ function checkAvailability(values, x) {
   }
 
   return true; // If loop completes, return true
+}
+
+function searchResult(search, x) {
+  return x.header.toLocaleLowerCase().includes(search) || x.description.toLocaleLowerCase().includes(search)
 }

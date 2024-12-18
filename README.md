@@ -2,7 +2,7 @@
 
 random tools I plan on making while playing poe/poe2
 
-## delirium calculator
+## poe 2 delirium annoint calculator
 
 Data sourced from https://poe2db.tw/Distilled_Emotions#DistilledEmotionsPassives
 
