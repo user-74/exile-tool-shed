@@ -14,34 +14,36 @@
     <div class="container">
         <div class="inventory" x-data="$store.appData">
             <template x-for="(item, index) in fileNames" :key="index">
-                <div">
+                <div class="item">
                     <img :src="item" />
-                    <div x-text="distilled[index]"></div>
-                    <input type="number" x-model="$store.appData.values[index]"
-                        @input="$store.appData.values[index] = parseFloat($store.appData.values[index]); $store.appData.calculate()" />
-        </div>
-        </template>
-    </div>
-    <div class="output">
-        <input type="string" placeholder="Search name or description" x-model="$store.appData.search"
-            @input="$store.appData.calculate()" />
-        <ul>
-            <template x-for="(row, index) in $store.appData.csv">
-                <li x-show="$store.appData.show[index]">
-                    <div style="display: flex; flex-wrap: nowrap;">
-                        <img :src="fileNames[row[0]]">
-                        <img :src="fileNames[row[1]]">
-                        <img :src="fileNames[row[2]]">
-                    </div>
                     <div>
-                        <div class="header" x-text="row.header"></div>
-                        <div x-html="row.description"></div>
+                        <div x-text="distilled[index]"></div>
+                        <input class="number-input" type="number" x-model="$store.appData.values[index]"
+                            @input="$store.appData.values[index] = parseFloat($store.appData.values[index]); $store.appData.calculate()" />
                     </div>
-
-                </li>
+                </div>
             </template>
-        </ul>
-    </div>
+        </div>
+        <div class="output">
+            <input type="string" placeholder="Search name or description" x-model="$store.appData.search"
+                @input="$store.appData.calculate()" />
+            <ul>
+                <template x-for="(row, index) in $store.appData.csv">
+                    <li x-show="$store.appData.show[index]">
+                        <div style="display: flex; flex-wrap: nowrap;">
+                            <img :src="fileNames[row[0]]">
+                            <img :src="fileNames[row[1]]">
+                            <img :src="fileNames[row[2]]">
+                        </div>
+                        <div>
+                            <div class="header" x-text="row.header"></div>
+                            <div x-html="row.description"></div>
+                        </div>
+
+                    </li>
+                </template>
+            </ul>
+        </div>
 </body>
 
 </html>
