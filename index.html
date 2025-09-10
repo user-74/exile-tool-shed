@@ -10,7 +10,10 @@
     <link rel="stylesheet" href="./src/styles/main.css">
 </head>
 
-<body x-data>
+<body x-data="{ lightMode: false }" :data-theme="lightMode ? 'light' : 'dark'">
+    <button class="theme-toggle" @click="lightMode = !lightMode" x-text="lightMode ? '☀️ Light' : '🌙 Dark'"></button>
+    <h1 class="page-title">Liquid Emotion Calculator</h1>
+    <h2 class="version">POE2 0.3.0</h2>
     <div class="container">
         <div class="inventory" x-data="$store.appData">
             <template x-for="(item, index) in fileNames" :key="index">

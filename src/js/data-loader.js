@@ -1,18 +1,31 @@
 // src/js/data-loader.js
 const distilled = [
-  "Distilled Ire",
-  "Distilled Guilt",
-  "Distilled Greed",
-  "Distilled Paranoia",
-  "Distilled Envy",
-  "Distilled Disgust",
-  "Distilled Despair",
-  "Distilled Fear",
-  "Distilled Suffering",
-  "Distilled Isolation"
+  "Diluted Liquid Ire",
+  "Diluted Liquid Guilt",
+  "Diluted Liquid Greed",
+  "Liquid Paranoia",
+  "Liquid Envy",
+  "Liquid Disgust",
+  "Liquid Despair",
+  "Concentrated Liquid Fear",
+  "Concentrated Liquid Suffering",
+  "Concentrated Liquid Isolation"
 ]
 
-const fileNames = distilled.map(x => `./assets/${x.toLocaleLowerCase().replace(/\s/g, '')}.webp`)
+const shortNames = {
+  "Diluted Liquid Ire": "ire",
+  "Diluted Liquid Guilt": "guilt",
+  "Diluted Liquid Greed": "greed",
+  "Liquid Paranoia": "paranoia",
+  "Liquid Envy": "envy",
+  "Liquid Disgust": "disgust",
+  "Liquid Despair": "despair",
+  "Concentrated Liquid Fear": "fear",
+  "Concentrated Liquid Suffering": "suffering",
+  "Concentrated Liquid Isolation": "isolation"
+}
+
+const fileNames = distilled.map(x => `./assets/${shortNames[x]}.webp`)
 
 document.addEventListener('alpine:init', () => {
   Alpine.store('appData', {
@@ -56,7 +69,7 @@ document.addEventListener('alpine:init', () => {
         this.resetShow();
         return;
       }
-      this.show = this.csv.map(x => (!this.values.some(x => x > 0) || checkAvailability(this.values, x)) && (!this.search.trim().toLocaleLowerCase() || searchResult(this.search, x)))
+      this.show = this.csv.map(x => (!this.values.some(x => x > 0) || checkAvailability(this.values, x)) && (!this.search || searchResult(this.search.trim().toLocaleLowerCase(), x)))
     }
   });
 
