@@ -19,11 +19,10 @@
             <template x-for="(item, index) in fileNames" :key="index">
                 <div class="item">
                     <img :src="item" />
-                    <div>
-                        <div x-text="distilled[index]"></div>
-                        <input class="number-input" type="number" x-model="$store.appData.values[index]"
-                            @input="$store.appData.values[index] = parseFloat($store.appData.values[index]); $store.appData.calculate()" />
-                    </div>
+                    <div x-text="distilled[index]"></div>
+
+                    <input class="number-input" type="number" x-model="$store.appData.values[index]"
+                        @input="$store.appData.values[index] = parseFloat($store.appData.values[index]); $store.appData.calculate()" />
                 </div>
             </template>
         </div>
